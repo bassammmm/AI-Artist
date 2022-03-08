@@ -12,23 +12,28 @@ Obviously, when talking about paintings and artists, the first name that pops up
 
 - Mona Lisa 
 
-Given Mona Lisa Painting -
-<img src="test4.jpg">
+Given Mona Lisa Painting
 
-AI-Artist's attempt at it - 
-<img src="ss/monaliza.gif">
 
+![Given Mona Lisa Painting](test4.jpg)
+
+
+AI-Artist's attempt at it 
+
+
+![AI-Artist's attempt at it](ss/monaliza.gif)
 
 Following is a personal favorite painting. Fun Fact - There's even a hollywood movie which tells the story behind the painting.
 
 - Girl with a Pearl Earring
 
 
-Given Pearl Painting -
-<img src="test3.jpg">
+Given Pearl Painting 
+
+![Given Pearl Painting](test3.gif)
 
 AI-Artist's attempt at it - 
-<img src="ss/pearlearring.gif">
+![Given Pearl Painting](ss/pearearring.gif)
 
 
 ## Support
