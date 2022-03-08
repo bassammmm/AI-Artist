@@ -16,8 +16,7 @@ Obviously, when talking about paintings and artists, the first name that pops up
 
 
 <p float="left">
-  Gebsadasdas
-  <img src="test4.jpg" width=500/>
+  <p float="top">adssa<img src="test4.jpg" width=500/></p>
   <img src="ss/monaliza.gif" width=500/> 
 </p>
 
