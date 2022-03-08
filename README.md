@@ -12,13 +12,11 @@ Obviously, when talking about paintings and artists, the first name that pops up
 
 - Mona Lisa 
 
-Given Mona Lisa Painting |
 
-
-![Given Mona Lisa Painting]()
 
 
 <p float="left">
+  Gebsadasdas
   <img src="test4.jpg" width=500/>
   <img src="ss/monaliza.gif" width=500/> 
 </p>
