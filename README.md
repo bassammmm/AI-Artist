@@ -15,7 +15,7 @@ Obviously, when talking about paintings and artists, the first name that pops up
 <table>
   <tr>
      <td>Given Mona Liza Painting</td>
-     <td>AI Artist's attempt at is</td>
+     <td>AI Artist's attempt at it</td>
   </tr>
   <tr>
     <td><img src="test4.jpg" width=500></td>
@@ -27,14 +27,16 @@ Following is a personal favorite painting. Fun Fact - There's even a hollywood m
 
 - Girl with a Pearl Earring
 
-
-Given Pearl Painting 
-
-![Given Pearl Painting](test3.gif)
-
-AI-Artist's attempt at it - 
-![Given Pearl Painting](ss/pearearring.gif)
-
+<table>
+  <tr>
+     <td>Given Pearl Painting </td>
+     <td>AI-Artist's attempt at it</td>
+  </tr>
+  <tr>
+    <td><img src="test3.gif" width=500></td>
+    <td><img src="ss/pearearring.gif" width=500></td>
+  </tr>
+ </table>
 
 ## Support
 
