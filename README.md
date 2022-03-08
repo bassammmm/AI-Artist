@@ -33,8 +33,8 @@ Following is a personal favorite painting. Fun Fact - There's even a hollywood m
      <td>AI-Artist's attempt at it</td>
   </tr>
   <tr>
-    <td><img src="test3.gif" width=500></td>
-    <td><img src="ss/pearearring.gif" width=500></td>
+    <td><img src="test3.JPG" width=500></td>
+    <td><img src="ss/pearlearring.gif" width=500></td>
   </tr>
  </table>
 
