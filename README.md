@@ -19,8 +19,8 @@ Given Mona Lisa Painting |
 
 
 <p float="left">
-  <img src="test4.jpg" />
-  <img src="ss/monaliza.gif" /> 
+  <img src="test4.jpg" width=300/>
+  <img src="ss/monaliza.gif" width=300/> 
 </p>
 
 
