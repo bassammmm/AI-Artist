@@ -12,11 +12,15 @@ Obviously, when talking about paintings and artists, the first name that pops up
 
 - Mona Lisa 
 
+<p float="left">
+  <p width=100>SOMETHING</p>
+  asdasd
+</p>
 
 
 
 <p float="left">
-  <p float="top">adssa<img src="test4.jpg" width=500/></p>
+  <img src="test4.jpg" width=500/>
   <img src="ss/monaliza.gif" width=500/> 
 </p>
 
