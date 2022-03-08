@@ -12,19 +12,16 @@ Obviously, when talking about paintings and artists, the first name that pops up
 
 - Mona Lisa 
 
-<p float="left">
-  <p width=100>SOMETHING</p>
-  asdasd
-</p>
-
-
-
-<p float="left">
-  <img src="test4.jpg" width=500/>
-  <img src="ss/monaliza.gif" width=500/> 
-</p>
-
-
+<table>
+  <tr>
+     <td>Given Mona Liza Painting</td>
+     <td>AI Artist's attempt at is</td>
+  </tr>
+  <tr>
+    <td><img src="test4.jpg" width=500></td>
+    <td><img src="ss/monaliza.gif" width=500></td>
+  </tr>
+ </table>
 
 Following is a personal favorite painting. Fun Fact - There's even a hollywood movie which tells the story behind the painting.
 
