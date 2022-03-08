@@ -12,16 +12,18 @@ Obviously, when talking about paintings and artists, the first name that pops up
 
 - Mona Lisa 
 
-Given Mona Lisa Painting
+Given Mona Lisa Painting |
 
 
-![Given Mona Lisa Painting](test4.jpg)
+![Given Mona Lisa Painting]()
 
 
-AI-Artist's attempt at it 
+<p float="left">
+  <img src="test4.jpg" width="100" />
+  <img src="ss/monaliza.gif" width="100" /> 
+</p>
 
 
-![AI-Artist's attempt at it](ss/monaliza.gif)
 
 Following is a personal favorite painting. Fun Fact - There's even a hollywood movie which tells the story behind the painting.
 
